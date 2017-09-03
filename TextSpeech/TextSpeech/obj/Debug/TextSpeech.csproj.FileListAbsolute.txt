@@ -1,0 +1,9 @@
+c:\users\макс\documents\visual studio 2013\Projects\TextSpeech\TextSpeech\bin\Debug\TextSpeech.exe.config
+c:\users\макс\documents\visual studio 2013\Projects\TextSpeech\TextSpeech\obj\Debug\TextSpeech.csprojResolveAssemblyReference.cache
+c:\users\макс\documents\visual studio 2013\Projects\TextSpeech\TextSpeech\obj\Debug\TextSpeech.frmMain.resources
+c:\users\макс\documents\visual studio 2013\Projects\TextSpeech\TextSpeech\obj\Debug\TextSpeech.Properties.Resources.resources
+c:\users\макс\documents\visual studio 2013\Projects\TextSpeech\TextSpeech\obj\Debug\TextSpeech.csproj.GenerateResource.Cache
+c:\users\макс\documents\visual studio 2013\Projects\TextSpeech\TextSpeech\bin\Debug\TextSpeech.exe
+c:\users\макс\documents\visual studio 2013\Projects\TextSpeech\TextSpeech\bin\Debug\TextSpeech.pdb
+c:\users\макс\documents\visual studio 2013\Projects\TextSpeech\TextSpeech\obj\Debug\TextSpeech.exe
+c:\users\макс\documents\visual studio 2013\Projects\TextSpeech\TextSpeech\obj\Debug\TextSpeech.pdb
